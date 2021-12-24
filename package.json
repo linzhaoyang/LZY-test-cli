@@ -1,0 +1,13 @@
+{
+    "name": "lzy-test-cli",
+    "version": "1.0.0",
+    "description": "A cli project",
+    "author": "<845982610@qq.com>",
+    "scripts": {
+        "start": "npm run dev"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/linzhaoyang/LZY-test-cli"
+    }
+}
